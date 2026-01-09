@@ -1,3 +1,3 @@
 # bridges-summer-school
 - Name: Youmei, GitHub Account: youmei-code
-- Name: Bridges, Github Account: test
+- Name: Emma Amini, Github Account: roseanneamini44-ui
